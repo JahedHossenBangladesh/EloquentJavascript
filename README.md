@@ -17,4 +17,4 @@ console.log(false == 0)
 ```
 ## summary of first chapter
 
-values are created by typing in their name (true,null) or value (13,"abc").  You can combine and transform values with operators.  We sawbinary operators for arithmetic (+,-,*,/, and%), string concatenation (+),comparison (==,!=,===,!==,<,>,<=,>=), and logic (&&,||), as well as severalunary operators (-to negate a number,!to negate logically, andtypeoftofind a value’s type) and a ternary operator (?:) to pick one of two values basedon a third value.
+###### values are created by typing in their name (true,null) or value (13,"abc").  You can combine and transform values with operators.  We sawbinary operators for arithmetic (+,-,*,/, and%), string concatenation (+),comparison (==,!=,===,!==,<,>,<=,>=), and logic (&&,||), as well as severalunary operators (-to negate a number,!to negate logically, andtypeoftofind a value’s type) and a ternary operator (?:) to pick one of two values basedon a third value.
